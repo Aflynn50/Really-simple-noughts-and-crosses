@@ -1,4 +1,4 @@
-__author__ = 'Alastair'
+__author__ = 'Aflynn50'
 import random, pygame, sys, time
 from pygame.locals import *
 WINDOWSIZE = 600
